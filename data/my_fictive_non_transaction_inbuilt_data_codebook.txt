@@ -1,0 +1,7 @@
+variable_name;variable_type
+Date;as.Date
+WeekDay;character
+KnownArtist;character
+MajorEra;character
+MinorEra;character
+ConcertType;character

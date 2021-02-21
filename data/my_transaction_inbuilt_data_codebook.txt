@@ -1,0 +1,5 @@
+variable_name;variable_type
+ID;character
+Date;as.Date
+Price;numeric
+Amount;numeric

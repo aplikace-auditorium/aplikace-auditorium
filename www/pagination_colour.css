@@ -1,0 +1,4 @@
+.paging_full_numbers a.paginate_active {
+    color: #fff !important;
+    background-color: #f4646c !important;
+}
